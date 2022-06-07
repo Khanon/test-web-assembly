@@ -38,9 +38,15 @@ module.exports = env => ({
     },
     plugins: [
         new CopyPlugin({
-          patterns: [
+          patterns: env.customCopy1 && env.customCopy2 ? [
+            { from: "./" + env.customCopy1 + ".wasm", to: "" },
+            { from: "./" + env.customCopy2 + ".wasm", to: "" }
+          ] :
+          env.customCopy1 ? [
+            { from: "./" + env.customCopy1 + ".wasm", to: "" }
+          ] : [
             { from: "./" + env.testFolder + ".wasm", to: "" }
-          ],
+          ]
         }),
       ],
   });

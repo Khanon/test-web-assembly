@@ -9,7 +9,8 @@
     "test:table": "webpack serve --env testFolder=table",
     "test:global": "webpack serve --env testFolder=global",
     "test:logger2": "webpack serve --env testFolder=logger2",
-    "test:table-wasm": "webpack serve --env testFolder=table-wasm"
+    "test:table-wasm": "webpack serve --env testFolder=table-wasm",
+    "test:shared": "webpack serve --env testFolder=shared --env customCopy1=shared0 --env customCopy2=shared1"
   },
   "author": "",
   "license": "ISC",
