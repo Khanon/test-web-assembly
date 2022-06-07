@@ -7,7 +7,9 @@
     "test:simple": "webpack serve --env testFolder=simple",
     "test:memory": "webpack serve --env testFolder=memory",
     "test:table": "webpack serve --env testFolder=table",
-    "test:global": "webpack serve --env testFolder=global"
+    "test:global": "webpack serve --env testFolder=global",
+    "test:logger2": "webpack serve --env testFolder=logger2",
+    "test:table-wasm": "webpack serve --env testFolder=table-wasm"
   },
   "author": "",
   "license": "ISC",
