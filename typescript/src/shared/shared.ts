@@ -12,7 +12,7 @@ var importObj = {
 Promise.all([
     WebAssembly.instantiateStreaming(fetch('shared0.wasm'), importObj),
     WebAssembly.instantiateStreaming(fetch('shared1.wasm'), importObj)
-]).then(([result1, result2]) => {
-    const instance = result2.instance as unknown as { exports: Exports };
+]).then(([source1, source2]) => {
+    const instance = source2.instance as unknown as { exports: Exports };
     console.log(instance.exports.doIt());  // prints 42
 });

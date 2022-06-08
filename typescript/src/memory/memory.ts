@@ -5,15 +5,15 @@ interface Exports {
 }
 
 WebAssembly.instantiateStreaming(fetch('memory.wasm'), { js: { mem: memory } })
-.then(result => {
-    console.log("aki RESULT:")
-    console.log(result)
+.then(source => {
+    console.log("aki SOURCE:")
+    console.log(source)
 
     var i32 = new Uint32Array(memory.buffer);
     for (var i = 0; i < 10; i++) {
       i32[i] = i;
     }
-    const instance = result.instance as unknown as { exports: Exports };
+    const instance = source.instance as unknown as { exports: Exports };
     var sum = instance.exports.accumulate(0, 10);
     console.log(sum);
 });

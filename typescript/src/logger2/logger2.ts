@@ -7,8 +7,8 @@ var memory = new WebAssembly.Memory({initial:1});
 var importObject = { console: { log: consoleLogString }, js: { mem: memory } };
 
 WebAssembly.instantiateStreaming(fetch('logger2.wasm'), importObject)
-  .then(obj => {
-    const instance = obj.instance as unknown as { exports: Exports };
+  .then(source => {
+    const instance = source.instance as unknown as { exports: Exports };
     instance.exports.writeHi();
 });
 

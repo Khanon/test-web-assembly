@@ -1,3 +1,5 @@
+// BROKEN TUTORIAL EXAMPLE
+
 var importObject = {
     imports: {
       imported_func: function(arg) {
