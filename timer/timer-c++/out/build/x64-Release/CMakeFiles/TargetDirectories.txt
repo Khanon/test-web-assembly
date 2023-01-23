@@ -1,0 +1,3 @@
+C:/Proyectos/_cursos-tests/test-web-assembly/timer/timer-c++/out/build/x64-Release/CMakeFiles/timer.dir
+C:/Proyectos/_cursos-tests/test-web-assembly/timer/timer-c++/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Proyectos/_cursos-tests/test-web-assembly/timer/timer-c++/out/build/x64-Release/CMakeFiles/rebuild_cache.dir

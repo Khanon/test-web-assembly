@@ -1,0 +1,2 @@
+C:\Proyectos\_compilers\emsdk\upstream\emscripten\emar.bat qc libsokol.a CMakeFiles/sokol.dir/sokol/sokol.c.o
+C:\Proyectos\_compilers\emsdk\upstream\emscripten\emranlib.bat libsokol.a

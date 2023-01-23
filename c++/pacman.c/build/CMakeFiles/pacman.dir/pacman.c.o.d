@@ -1,0 +1,21 @@
+CMakeFiles/pacman.dir/pacman.c.o: \
+  C:\Proyectos\_cursos-tests\cmake-wasm-tests\pacman.c\pacman.c \
+  C:\Proyectos\_cursos-tests\cmake-wasm-tests\pacman.c\sokol\sokol_app.h \
+  C:\Proyectos\_compilers\emsdk\upstream\lib\clang\15.0.0\include\stddef.h \
+  C:\Proyectos\_compilers\emsdk\upstream\lib\clang\15.0.0\include\__stddef_max_align_t.h \
+  C:\Proyectos\_compilers\emsdk\upstream\lib\clang\15.0.0\include\stdint.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\stdint.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\bits\alltypes.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\bits\stdint.h \
+  C:\Proyectos\_compilers\emsdk\upstream\lib\clang\15.0.0\include\stdbool.h \
+  C:\Proyectos\_cursos-tests\cmake-wasm-tests\pacman.c\sokol\sokol_gfx.h \
+  C:\Proyectos\_cursos-tests\cmake-wasm-tests\pacman.c\sokol\sokol_audio.h \
+  C:\Proyectos\_cursos-tests\cmake-wasm-tests\pacman.c\sokol\sokol_glue.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\assert.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\features.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\compat\string.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\string.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\strings.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\compat\stdlib.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\stdlib.h \
+  C:\Proyectos\_compilers\emsdk\upstream\emscripten\cache\sysroot\include\alloca.h

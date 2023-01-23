@@ -1,0 +1,4 @@
+C:/Proyectos/_cursos-tests/cmake-wasm-tests/pacman.c/build/CMakeFiles/sokol.dir
+C:/Proyectos/_cursos-tests/cmake-wasm-tests/pacman.c/build/CMakeFiles/pacman.dir
+C:/Proyectos/_cursos-tests/cmake-wasm-tests/pacman.c/build/CMakeFiles/edit_cache.dir
+C:/Proyectos/_cursos-tests/cmake-wasm-tests/pacman.c/build/CMakeFiles/rebuild_cache.dir

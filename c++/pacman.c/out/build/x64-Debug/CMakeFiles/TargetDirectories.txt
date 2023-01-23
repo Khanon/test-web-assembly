@@ -1,0 +1,4 @@
+C:/Proyectos/_cursos-tests/test-web-assembly/c++/pacman.c/out/build/x64-Debug/CMakeFiles/sokol.dir
+C:/Proyectos/_cursos-tests/test-web-assembly/c++/pacman.c/out/build/x64-Debug/CMakeFiles/pacman.dir
+C:/Proyectos/_cursos-tests/test-web-assembly/c++/pacman.c/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Proyectos/_cursos-tests/test-web-assembly/c++/pacman.c/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

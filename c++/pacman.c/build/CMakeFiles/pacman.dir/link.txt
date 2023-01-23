@@ -1,0 +1,1 @@
+C:\Proyectos\_compilers\emsdk\upstream\emscripten\emcc.bat -Os -DNDEBUG --shell-file ../sokol/shell.html -sNO_FILESYSTEM=1 -sASSERTIONS=0 -sMALLOC=emmalloc --closure=1 @CMakeFiles\pacman.dir\objects1.rsp -o pacman.html @CMakeFiles\pacman.dir\linklibs.rsp
