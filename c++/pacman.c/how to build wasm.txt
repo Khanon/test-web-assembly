@@ -1,0 +1,8 @@
+- Source: https://github.com/floooh/pacman.c
+- Install MinGW: https://sourceforge.net/projects/mingw/
+- Open console with emscript global variables bat file (C:\Proyectos\_compilers\emsdk\emcmdprompt.bat)
+- Create ./build folder
+- Go ./build folder
+- Exec: emcmake cmake -G"MinGW Makefiles" -DCMAKE_BUILD_TYPE=MinSizeRel ..
+- Exec: cmake --build .
+- Done!
